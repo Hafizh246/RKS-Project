@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$database = "loginakun";
+$database = "data";
 $username = "root";
 $password = "";
 
