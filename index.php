@@ -46,7 +46,7 @@
 	</head>
 	<body>
     <div class="container-fluid">
-        <h1 style="color: white">Selamat datang di Solusi Psikologi Remaja (SPR)</h1>
+        <h1 style="color: white">Welcome to Assignment Collector</h1>
     </div>
     <nav class="navbar navbar-expand-lg" style="background-color: rgba(0,0,0,0.8)" >
       <a class="navbar-brand" href="index.php">HOME</a>
