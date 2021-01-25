@@ -52,6 +52,8 @@
       <a class="navbar-brand" href="index.php">HOME</a>
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
+		<li class="nav-item">
+            <a class="nav-link" href="loginlect.php">LOGIN Lecturer </a>
           <li class="nav-item">
             <a class="nav-link" href="login.php">LOGIN </a>
           </li>
