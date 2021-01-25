@@ -82,7 +82,7 @@
 <table>
   
 	<tr>
-	<td> <b>Komplain &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp </b></td><td> : <?php echo "$link"; ?></td>
+	<td> <b>Link &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp </b></td><td> : <?php echo "$link"; ?></td>
 	<td>  </td>
 	</tr>
 	</div>
