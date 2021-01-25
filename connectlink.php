@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$database = "linkanswer";
+$database = "link";
 $username = "root";
 $password = "";
 
