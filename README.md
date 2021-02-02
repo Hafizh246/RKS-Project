@@ -5,7 +5,9 @@ But with some changes such as the assignment collection in the website will be i
 
 The website still uses account for lecturer and student the same as the original wireframe, workflow and UAT.
 
-Because the database of the account has not been connected in the website the lecturer's account username:lecturer password:lecturer
+Because the database of the account has not been connected in the website so that the register form for account has not been made
+
+the lecturer's account username:lecturer password:lecturer
 
 student username: admin password:uad
 
