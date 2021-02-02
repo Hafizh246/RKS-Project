@@ -5,7 +5,7 @@ But with some changes such as the assignment collection in the website will be i
 The website still uses account for lecturer and student the same as the original wireframe, workflow and UAT.
 Because the database of the account has not been connected in the website the lecturer's account username:lecturer password:lecturer
 student username: admin password:uad
-the screenshot of the website will be provided in the github also
+the screenshot of the website will be provided in the github also.
 the link to wireframe,workflow,UAT and requirement specifications: 
 https://drive.google.com/drive/folders/1NM4YFQt3iazfc2UkdgzzpDw6Sih5IeRF?usp=sharing
 
